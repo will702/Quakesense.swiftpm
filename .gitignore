@@ -28,6 +28,12 @@ marketing/
 scripts/
 Debug/
 
-# Portfolio & documentation (not part of the app)
-Portfolio/
+# Portfolio — generated / internal assets (screenshots & gifs are kept for README)
+Portfolio/raw/
+Portfolio/video/
+Portfolio/docs/
+Portfolio/appetize/*.zip
+Portfolio/CAPTURE_CHECKLIST.md
+
+# Personal / non-app documentation
 Documentation/
