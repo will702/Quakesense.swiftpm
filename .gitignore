@@ -1,0 +1,33 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Swift / Xcode build artifacts
+.build/
+.swiftpm/
+DerivedData/
+*.xcuserstate
+xcuserdata/
+libAppleProductTypes.dylib
+AppleProductTypes.swiftmodule
+
+# Agent & IDE tooling (not part of the app)
+.agents/
+.claude/
+.xcodebuildmcp/
+AGENTS.md
+skills-lock.json
+
+# Marketing screenshot editor (Next.js tooling)
+Marketing/
+marketing/
+
+# Capture pipeline scripts & debug helpers
+scripts/
+Debug/
+
+# Portfolio & documentation (not part of the app)
+Portfolio/
+Documentation/
