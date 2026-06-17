@@ -8,7 +8,7 @@
 **Earthquake survival training — without leaving the classroom.**
 
 [![Play in browser](https://img.shields.io/badge/▶%20Play%20in%20browser-Appetize.io-teal?style=for-the-badge)](REPLACE_WITH_APPETIZE_URL)
-[![Swift Student Challenge](https://img.shields.io/badge/Swift%20Student%20Challenge-2026-F05138?style=for-the-badge&logo=swift&logoColor=white)](https://developer.apple.com/swift-student-challenge/)
+
 
 </div>
 
