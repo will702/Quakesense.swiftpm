@@ -7,7 +7,7 @@
 
 **Earthquake survival training — without leaving the classroom.**
 
-[![Play in browser](https://img.shields.io/badge/▶%20Play%20in%20browser-Appetize.io-teal?style=for-the-badge)](REPLACE_WITH_APPETIZE_URL)
+[![Play in browser](https://img.shields.io/badge/▶%20Play%20in%20browser-Appetize.io-teal?style=for-the-badge)](https://appetize.io/app/b_grbsh5nexp35rxypb532ro22vq)
 
 
 </div>
